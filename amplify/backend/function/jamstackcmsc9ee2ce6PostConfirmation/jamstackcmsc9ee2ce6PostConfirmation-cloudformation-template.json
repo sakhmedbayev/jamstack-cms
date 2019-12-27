@@ -102,7 +102,7 @@
 				"Timeout": "25",
 				"Code": {
 					"S3Bucket": "amplify-jamstack-cms-dev-144533-deployment",
-					"S3Key": "amplify-builds/jamstackcmsc9ee2ce6PostConfirmation-704c5234552f61335143-build.zip"
+					"S3Key": "amplify-builds/jamstackcmsc9ee2ce6PostConfirmation-72706f44786e4f396d58-build.zip"
 				}
 			}
 		},
